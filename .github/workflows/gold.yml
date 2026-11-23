@@ -25,7 +25,10 @@ jobs:
           RISK_USD: "50"
           STRATEGIES: "smc,orb,pb"
           RUN_SECONDS: "240"
-        run: python gold.py live
+        run: |
+          ls -la | cat -v
+          F=$(ls | grep -a gold | head -1)
+          python "$F" live
       - name: Save state
         if: always()
         run: |
