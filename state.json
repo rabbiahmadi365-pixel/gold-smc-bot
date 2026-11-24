@@ -1,1 +1,1 @@
-{"sent": ["ORB-LDN-2026-11-23:FILLED", "ORB-LDN-2026-11-23:STOP"], "hist": [], "recap": "", "since": 1795435108.137089, "last_ok": 1795439805.335809, "beat": "2026-11-23", "init": true}
+{"sent": ["ORB-LDN-2026-11-23:FILLED", "ORB-LDN-2026-11-23:STOP"], "hist": [{"id": "ORB-NY-2026-11-23", "s": "ORB", "side": "SHORT", "R": -1.023, "Rw": -1.023, "day": "2026-11-23"}], "recap": "", "since": 1795435108.137089, "last_ok": 1795481856.859389, "beat": "2026-11-23", "init": true}
